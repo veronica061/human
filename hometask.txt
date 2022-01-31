@@ -1,1 +1,2 @@
 В файле human.txt появились шляпа, пуговицы и ботинки
+heat added, boots, dots
